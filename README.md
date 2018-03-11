@@ -10,9 +10,8 @@ Monster will die once health reaches 0 or below.
 Health and monsters can be set by player in array.
 
 Upcoming features in development:
--Prompt to allow players to define monsters and health at launch
-
--Additional command for regenerating monster's health
+Prompt to allow players to define monsters and health at launch
+Additional command for regenerating monster's health
 -Monsters will inflict damage on eachother
 -GUI for game
 -Player will chose a monster as a character to play with
