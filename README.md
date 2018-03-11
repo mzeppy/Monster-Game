@@ -11,6 +11,7 @@ Health and monsters can be set by player in array.
 
 Upcoming features in development:
 -Prompt to allow players to define monsters and health at launch
+
 -Additional command for regenerating monster's health
 -Monsters will inflict damage on eachother
 -GUI for game
